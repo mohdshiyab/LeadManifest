@@ -284,17 +284,7 @@ Buyer Outreach Dashboard
 └── Export CSV
 ```
 
----
 
-# Recruiter Clarification
-
-Before implementing automatic email functionality, ask:
-
-> Should emails be sent manually after generating the draft, or should the dashboard send emails automatically using Gmail or Outlook APIs?
-
-This determines whether an email integration is required.
-
----
 
 # Best Practices
 
